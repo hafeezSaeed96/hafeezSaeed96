@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hafeez
 - 👀 I’m an Energy Engineer, specialized in data-driven power system stability solutions  
-- 🌱 I’m studying MSc Energy for Smart Cities, presently doing my MSc thesis at Atos, France
+- 🌱 I’m doing a PhD in Control systems and AI, focusing on "Stochastic control of stacked flexibility in multi-energy systems on district-level" 
 - 💞️ I'm interested in developing energy management solutions that can  optimize the operation and control of power grids 
 - 📫 How to reach me hafeez.saeed96@gmail.com
 
