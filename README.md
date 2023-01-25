@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hafeez
 - 👀 I’m an Energy Engineer, specialized in data-driven power system stability solutions  
-- 🌱 I’m doing PhD at KU Leuven in control systems and AI, focusing on "stochastic control of stacked flexibility in multi-energy systems on district-level" 
+- 🌱 I’m a PhD fellow at KU Leuven working in the domain of control systems and AI, focusing on "stochastic control of stacked flexibility in multi-energy systems on district-level" 
 - 💞️ I'm interested in developing energy management solutions that can  optimize the operation and control of power grids 
 - 📫 How to reach me hafeez.saeed96@gmail.com
 
