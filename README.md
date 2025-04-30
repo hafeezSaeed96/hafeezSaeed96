@@ -9,10 +9,9 @@ I am a PhD researcher at KU Leuven working at the intersection of **AI and energ
 
 ## 🔬 Research Interests
 - Physics-Informed and Model-Based Reinforcement Learning
-- Deep Operator Networks (DeepONets, PINNs)
+- Deep Operator Networks (DeepONets)
 - Multi-Agent Control for Energy Flexibility
-- Building and District Energy Simulations (BOPTEST, CityLearn)
-- Post-Simulation KPI Analysis (Cost, Emissions, Comfort)
+- Energy Markets
 
 ---
 
