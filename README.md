@@ -1,9 +1,24 @@
-- 👋 Hi, I’m Hafeez
-- 👀 I’m an Energy Engineer, motivated to contribute towards data-intelligent cities and districts with grid interactive abilities.  
-- 🌱 I’m a PhD researcher at KU Leuven working in the domain of control systems and AI, focusing on "stochastic control of stacked flexibility in multi-energy systems on district-level" 
-- 💞️ I'm interested in developing energy management solutions that can  optimize the operation and control of power grids 
-- 📫 How to reach me hafeez.saeed96@gmail.com
+# 👋 Hi, I'm Hafeez
 
+I am a PhD researcher at KU Leuven working at the intersection of **AI and energy systems**, with a focus on **physics-informed and model-based reinforcement learning for energy flexibility in buildings and districts**.
+
+⚡ I am passionate about developing intelligent control strategies that enable buildings and energy districts to interact efficiently with the power grid.  
+🏙️ My work integrates domain knowledge from control systems, energy engineering, and machine learning to create scalable, data-efficient solutions.
+
+---
+
+## 🔬 Research Interests
+- Physics-Informed and Model-Based Reinforcement Learning
+- Deep Operator Networks (DeepONets, PINNs)
+- Multi-Agent Control for Energy Flexibility
+- Building and District Energy Simulations (BOPTEST, CityLearn)
+- Post-Simulation KPI Analysis (Cost, Emissions, Comfort)
+
+---
+
+## 📫 Get in Touch
+📧 hafeez.saeed96@gmail.com  
+🌐 [LinkedIn – Muhammad Hafeez Saeed](https://www.linkedin.com/in/mhafeezsaeed/)
 <!---
 hafeezSaeed96/hafeezSaeed96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
